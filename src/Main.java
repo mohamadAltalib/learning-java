@@ -13,6 +13,8 @@ public class Main {
     }
 
      private static int[] lengthOfLastWord(int [] digits) {
+        // hello world
+         System.out.println("hello world");
          int index = 0;
          int length = digits.length;
          ArrayList<Integer> result = new ArrayList<>();
